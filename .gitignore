@@ -1,13 +1,7 @@
-#
-# .gitignore
-#
-
-.git
-.gitignore
-*.sublime-*
-*.log
-bower_components
-dist
-log
-node_modules
-template/cache.js
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
